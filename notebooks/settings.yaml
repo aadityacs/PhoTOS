@@ -1,0 +1,42 @@
+STAMP_BBOX:
+  x_max: 75.
+  x_min: -75.
+  y_max: 75.
+  y_min: -75.
+
+STAMP_MESH:
+  nelx: 64
+  nely: 64
+
+DOM_BBOX:
+  x_max: 1600.0
+  x_min: 0.0
+  y_max: 1600.0
+  y_min: 0.0
+
+DOM_MESH:
+  nelx: 80
+  nely: 80
+
+IMPLICIT_NN:
+  num_layers : 4
+  hidden_dim : 32
+  latent_dim: 2
+  siren_freq: 0.75
+
+VAE_TRAIN:
+  num_epochs: 40000
+  lr: 5.e-4
+  kl_factor: 5.e-8
+
+CONSTRAINTS:
+  msd: 60.
+  mfs: 40.
+  library_mfs: 40.
+
+TOPOPT:
+  num_epochs: 150
+  lr: 1.e-2
+  num_design_var: 216
+  num_stamps_x: 6
+  num_stamps_y: 6
