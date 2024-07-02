@@ -15,7 +15,7 @@ Shape images and trained VAE params required for the code can be downloaded from
 
 ```
 
-@misc{padhy2024photostopologyoptimizationphotonic,
+@misc{padhy2024PhoTOS,
       title={PhoTOS: Topology Optimization of Photonic Components using a Shape Library}, 
       author={Rahul Kumar Padhy and Aaditya Chandrasekhar},
       year={2024},
