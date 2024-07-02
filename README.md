@@ -30,8 +30,13 @@ Shape images and trained VAE params required for the code can be downloaded from
 
 ## 3rd party libraries
 [invrs-io/gym](https://github.com/invrs-io/gym)
+
 [totypes](https://github.com/invrs-io/totypes)
+
 [ceviche](https://github.com/fancompute/ceviche)
+
 [imageruler](https://github.com/NanoComp/imageruler)
+
 [mmapy](https://github.com/aadityacs/mmapy)
+
 [gifcm](https://github.com/mfschubert/gifcm)
