@@ -9,14 +9,14 @@ STAMP_MESH:
   nely: 64
 
 DOM_BBOX:
-  x_max: 1600.0
+  x_max: 2000.0
   x_min: 0.0
-  y_max: 1600.0
+  y_max: 2000.0
   y_min: 0.0
 
 DOM_MESH:
-  nelx: 80
-  nely: 80
+  nelx: 100
+  nely: 100
 
 IMPLICIT_NN:
   num_layers : 4
