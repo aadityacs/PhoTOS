@@ -17,14 +17,13 @@ Shape images and trained VAE params required for the code can be downloaded from
 
 ```
 
-@misc{padhy2024PhoTOS,
-      title={PhoTOS: Topology Optimization of Photonic Components using a Shape Library}, 
-      author={Rahul Kumar Padhy and Aaditya Chandrasekhar},
-      year={2024},
-      eprint={2407.00845},
-      archivePrefix={arXiv},
-      primaryClass={math.NA},
-      url={https://arxiv.org/abs/2407.00845}, 
+@article{padhy2024photos,
+  title={Photos: topology optimization of photonic components using a shape library},
+  author={Padhy, Rahul Kumar and Chandrasekhar, Aaditya},
+  journal={Engineering with Computers},
+  pages={1--13},
+  year={2024},
+  publisher={Springer}
 }
 ```
 
